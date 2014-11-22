@@ -1,0 +1,10 @@
+H:\Programming\csharp\SMARTMZ\QRCODE\qrcode\qrcode\bin\Debug\qrcode.exe.config
+H:\Programming\csharp\SMARTMZ\QRCODE\qrcode\qrcode\bin\Debug\qrcode.exe
+H:\Programming\csharp\SMARTMZ\QRCODE\qrcode\qrcode\bin\Debug\qrcode.pdb
+H:\Programming\csharp\SMARTMZ\QRCODE\qrcode\qrcode\bin\Debug\QRCoder.dll
+H:\Programming\csharp\SMARTMZ\QRCODE\qrcode\qrcode\bin\Debug\ThoughtWorks.QRCode.dll
+H:\Programming\csharp\SMARTMZ\QRCODE\qrcode\qrcode\obj\Debug\qrcode.Form1.resources
+H:\Programming\csharp\SMARTMZ\QRCODE\qrcode\qrcode\obj\Debug\qrcode.Properties.Resources.resources
+H:\Programming\csharp\SMARTMZ\QRCODE\qrcode\qrcode\obj\Debug\qrcode.csproj.GenerateResource.Cache
+H:\Programming\csharp\SMARTMZ\QRCODE\qrcode\qrcode\obj\Debug\qrcode.exe
+H:\Programming\csharp\SMARTMZ\QRCODE\qrcode\qrcode\obj\Debug\qrcode.pdb
